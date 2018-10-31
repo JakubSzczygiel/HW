@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Address_book/Address_book.iml" filepath="$PROJECT_DIR$/Address_book/Address_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Address_book_simple/Address_book_simple.iml" filepath="$PROJECT_DIR$/Address_book_simple/Address_book_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banking_application/Banking_application.iml" filepath="$PROJECT_DIR$/Banking_application/Banking_application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculate_circle_length_classes/Calculate_circle_length_classes.iml" filepath="$PROJECT_DIR$/Calculate_circle_length_classes/Calculate_circle_length_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discount/Discount.iml" filepath="$PROJECT_DIR$/Discount/Discount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dog_and_cat/Dog_and_cat.iml" filepath="$PROJECT_DIR$/Dog_and_cat/Dog_and_cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci_Big_int/Fibonacci_Big_int.iml" filepath="$PROJECT_DIR$/Fibonacci_Big_int/Fibonacci_Big_int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci_reversed/Fibonacci_reversed.iml" filepath="$PROJECT_DIR$/Fibonacci_reversed/Fibonacci_reversed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW.iml" filepath="$PROJECT_DIR$/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculate_circle_length/calculate_circle_length.iml" filepath="$PROJECT_DIR$/calculate_circle_length/calculate_circle_length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/char_sum_in_string/char_sum_in_string.iml" filepath="$PROJECT_DIR$/char_sum_in_string/char_sum_in_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exchange_currency/exchange_currency.iml" filepath="$PROJECT_DIR$/exchange_currency/exchange_currency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/month_switch/month_switch.iml" filepath="$PROJECT_DIR$/month_switch/month_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star_double_loop/star_double_loop.iml" filepath="$PROJECT_DIR$/star_double_loop/star_double_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star_loop/star_loop.iml" filepath="$PROJECT_DIR$/star_loop/star_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/star_rekurence_loop/star_rekurence_loop.iml" filepath="$PROJECT_DIR$/star_rekurence_loop/star_rekurence_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_array_swap_name_order/string_array_swap_name_order.iml" filepath="$PROJECT_DIR$/string_array_swap_name_order/string_array_swap_name_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_in_a_string/string_in_a_string.iml" filepath="$PROJECT_DIR$/string_in_a_string/string_in_a_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string_reverse_order/string_reverse_order.iml" filepath="$PROJECT_DIR$/string_reverse_order/string_reverse_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swap_values/swap_values.iml" filepath="$PROJECT_DIR$/swap_values/swap_values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp/temp.iml" filepath="$PROJECT_DIR$/temp/temp.iml" />
+    </modules>
+  </component>
+</project>
