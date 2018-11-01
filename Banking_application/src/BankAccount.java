@@ -36,5 +36,4 @@ public class BankAccount {
         return id + " " + name + " " + accountNumber + " " + (Math.round(money * 100d)) / 100d + "zl";
 
     }
-
 }
