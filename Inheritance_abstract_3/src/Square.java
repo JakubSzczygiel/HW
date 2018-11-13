@@ -1,16 +1,13 @@
-public class Square extends Figure {
-    private double lengthOfSideOfSquare;
+public class Square extends Rectangle {
+    //private double lengthOfSideOfSquare;
 
     public Square(String name, double lengthOfSideOfSquare) {
-        super(name);
-        if (lengthOfSideOfSquare >= 0) {
-            this.lengthOfSideOfSquare = lengthOfSideOfSquare;
-        }
+        super(name,lengthOfSideOfSquare, lengthOfSideOfSquare);
     }
 
     @Override
     public void calculateArea() {
-        setArea(Math.pow(lengthOfSideOfSquare, 2));
+        setArea(Math.pow(lengthOfFirstSideOfRectangle, 2));
     }
 
 }
