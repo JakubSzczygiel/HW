@@ -32,7 +32,7 @@ public class Trio<T> {
 
     @Override
     public int hashCode() {
-        return Objects.hash(trioObjectList);
+        return (object1.hashCode()*object2.hashCode()*object3.hashCode()) + object1.hashCode()+object2.hashCode()+object3.hashCode();
     }
 
 }
