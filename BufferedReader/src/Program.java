@@ -11,7 +11,7 @@ public class Program {
 
         try {
             String line = null;
-            bufferedReader = new BufferedReader(new FileReader("C:\\Users\\Jakub\\IdeaProjects\\HW\\Banking_application\\Nmbers.txt"));
+            bufferedReader = new BufferedReader(new FileReader("C:\\Users\\Jakub\\IdeaProjects\\HW\\Banking_application\\Numbers.txt"));
             while ((line = bufferedReader.readLine()) != null) {
                 total += Integer.valueOf(line);
             }
