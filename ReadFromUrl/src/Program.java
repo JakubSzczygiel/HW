@@ -12,6 +12,7 @@ public class Program {
            // System.out.println("Method 1: "+ reader.getNumberOfStringOccuranceMethod1("Polska",url));
            // System.out.println("Method 2: "+ reader.getNumberOfStringOccuranceMethod2("Polska",url));
             System.out.println("Method 3: "+ reader.getNumberOfStringOccuranceMethod3("Polska",url));
+           // System.out.println("Method 4: "+ reader.getNumberOfStringOccuranceMethod4("Polska",url));
 
         } catch (MalformedURLException e) {
             System.out.println("Malformed url exception");
