@@ -15,10 +15,8 @@ public class Reader {
         }
         // System.out.println(textFromUrl.toString());
         numberOfOccurances = textFromUrl.toString().split(soughtString).length - 1;
-        ;
         return numberOfOccurances;
     }
-
 
     public int getNumberOfStringOccuranceMethod2(String soughtString, InputStream url) throws IOException {
         int numberOfOccurances = 0;
@@ -27,7 +25,6 @@ public class Reader {
         while ((count = url.read(buffer)) != -1) {
             numberOfOccurances += new String(buffer, 0, count).split(soughtString).length - 1;
         }
-        System.out.println(numberOfOccurances);
         return numberOfOccurances;
     }
 
