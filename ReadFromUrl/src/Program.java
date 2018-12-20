@@ -15,10 +15,13 @@ public class Program {
            // System.out.println("Method 4: "+ reader.getNumberOfStringOccuranceMethod4("Polska",url));
 
         } catch (MalformedURLException e) {
+            e.printStackTrace();
             System.out.println("Malformed url exception");
         } catch (IOException e) {
+            e.printStackTrace();
             System.out.println("IO exception");
         } catch (Exception e) {
+            e.printStackTrace();
             System.out.println("smth go wrong");
         }
 
