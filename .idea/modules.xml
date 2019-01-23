@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Address_book/Address_book.iml" filepath="$PROJECT_DIR$/Address_book/Address_book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Address_book_simple/Address_book_simple.iml" filepath="$PROJECT_DIR$/Address_book_simple/Address_book_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Banking_application/Banking_application.iml" filepath="$PROJECT_DIR$/Banking_application/Banking_application.iml" />
       <module fileurl="file://$PROJECT_DIR$/BufferedReader/BufferedReader.iml" filepath="$PROJECT_DIR$/BufferedReader/BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculate_circle_length_classes/Calculate_circle_length_classes.iml" filepath="$PROJECT_DIR$/Calculate_circle_length_classes/Calculate_circle_length_classes.iml" />
